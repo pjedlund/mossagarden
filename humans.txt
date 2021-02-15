@@ -1,0 +1,21 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* TEAM */
+	Developer & Designer: Johan Edlund
+	Site: edlunddesign.com
+	Twitter: @pjedlund
+	Location: Malmö, Sweden
+  
+ /* SITE */
+	Last update:2012/02/04
+	Doctype: HTML5
+	Standards: HTML5, CSS3
+	Components: Wordpress, Modernizr, jQuery, SCSS
+	Software: Coda, CodeKit, Firefox Developer Edition (w/ Session Sync), Sketch, Gradient
+
+/* THANKS */
+	"HTML5 Boilerplate" (http://html5boilerplate.com/)
+	"The 4px baseline grid" (https://uxdesign.cc/the-4px-baseline-grid-89485012dea6)
+	"medium-zoom" (https://github.com/francoischalifour/medium-zoom) */
+
