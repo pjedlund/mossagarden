@@ -3,17 +3,15 @@
 ## General
 
 ## Fonts
+
 Georgia and Helvetica
 
 ## Plugins
-
 The following plugins are active:
 
 * [Akismet](http://akismet.com/)
 
 ## Javascript
-
-[jQuery](http://jquery.com) enqueued in functions.php
 
 ## Licens
 
