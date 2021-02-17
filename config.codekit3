@@ -58,11 +58,11 @@
 		"oA": 0,
 		"oAP": "/screenshot.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"ou": "lpckwebp-none",
-		"q": 100,
+		"q": 98,
 		"rq": 75
 		}
 	},
@@ -72,8 +72,8 @@
 	},
 "projectAttributes": {
 	"creationDate": 635166676.67240703,
-	"displayValue": "mossagarden",
-	"displayValueWasSetByUser": 0,
+	"displayValue": "Mossagarden Local",
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets-ucla",
 	"iconImageWasSetByUser": 0
 	},
